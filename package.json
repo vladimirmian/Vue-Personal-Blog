@@ -1,0 +1,51 @@
+{
+  "name": "personalblog",
+  "version": "1.0.0",
+  "description": "Build a blog by using vuejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirmian/Vue-Personal-Blog.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladimirmian/Vue-Personal-Blog/issues"
+  },
+  "homepage": "https://github.com/vladimirmian/Vue-Personal-Blog#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "browser-sync-spa": "^1.0.3",
+    "eslint": "^3.11.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-filesort": "^1.1.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-inject": "^4.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sequence": "^0.4.6",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "gulp-util": "^3.0.7",
+    "http-proxy-middleware": "^0.17.2",
+    "lodash": "^4.17.2",
+    "main-bower-files": "^2.13.1",
+    "path": "^0.12.7",
+    "wiredep": "^4.0.0"
+  },
+  "dependencies": {
+    "gulp-load-plugins": "^1.4.0"
+  }
+}

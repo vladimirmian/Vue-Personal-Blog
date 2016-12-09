@@ -1,0 +1,28 @@
+{
+  "name": "personalblog",
+  "description": "Build a blog by using vuejs",
+  "main": "app.js",
+  "authors": [
+    "Martin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "vue"
+  ],
+  "homepage": "https://github.com/vladimirmian/Vue-Personal-Blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "blog/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "vue": "2.0",
+    "vue-router": "^2.1.1",
+    "underscore": "^1.8.3",
+    "bootstrap": "^3.3.7"
+  }
+}
